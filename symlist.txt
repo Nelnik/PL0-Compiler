@@ -1,0 +1,5 @@
+beginningX 1 0 3
+facRes 2 0 4
+facParam 2 0 5
+Factorial 3 0 1
+myFacParam 2 1 4
